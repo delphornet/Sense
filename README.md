@@ -32,8 +32,8 @@ If you want to add to the roadmap, learn more [here.](https://github.com/delphor
 |**Package** | **What it Does** | **References** |
 |-------------|----------|------------|
 |softflow | collects netflow v5 and exposes to next Delphor component|[softflowd](http://www.mindrot.org/projects/softflowd/)|
-|-------|---------------|----------------|
 |Next Thing|Something|www|
+|-------|---------------|----------------|
 
 # Contributors #
 
